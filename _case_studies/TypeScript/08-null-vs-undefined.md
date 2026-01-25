@@ -111,6 +111,7 @@ console.log(result); // Output: undefined
 ```
 
 ## Key Differences Table
+
 | Feature               | null                                 | undefined                         |
 |-----------------------|--------------------------------------|------------------------------------|
 | Meaning               | Explicitly no value                  | Not initialized                    |
