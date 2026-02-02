@@ -313,10 +313,12 @@ After completing case studies, you move ahead to the Endorsement phase. The Self
    (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
 4. Review your details and submit the form.
 5. Repeat this process for **each lesson** you complete.
+6. Ensure that the upload has been successful.
 
 
 **8.6 What should I do if a lesson contains multiple files?**  
 For lessons (such as React) that involve **multiple files**, compress all related files into a **single ZIP file** and upload the ZIP file during submission.
+Multiple file submissions are not considered.
 
 
 **8.7 Where can I get help if I am stuck with the case studies?**  
@@ -554,12 +556,12 @@ All activity deadlines are available directly on the dashboard:
 👉 The respective deadlines are shown under each activity inside the dashboard and cohort specific pages.
 
 **11.3 When are Zoom breakout rooms opened and who can join?**
-Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to all three cohorts, unless communicated otherwise.
+Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to two cohorts, unless communicated otherwise.
 
 **11.4 How will I know when the breakout rooms are active? Are they compulsory?**
 Announcements will be made in the Telegram channel when breakout rooms go live. Participation is completely optional.
 
 **11.5 What is the purpose of the breakout rooms?**
-They are intended for informal discussions, doubt clarification, collaboration, and peer support among participants.
+They are intended for informal discussions, doubt clarification, collaboration, and peer support amongst participants.
 
 ---
